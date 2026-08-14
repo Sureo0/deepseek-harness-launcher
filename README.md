@@ -7,7 +7,13 @@
 ## 快速开始
 
 1. 把 2 个文件放入同一文件夹(路径别太深,例如 `D:\deepseek-harness-master\dsh`)
+
 2. 双击 `setup_dsh.bat` —— 自动完成:下载便携 Node.js → 安装 pnpm → 获取 dsh 源码 → 安装依赖 → 全量构建 → 引导配置 API Key(首次约 10-30 分钟)
+
+   API配置位置：
+
+   ![image-20260815021457643](E:\ai\deepseek-harness-launcher\image-20260815021457643.png)
+
 3. 双击 `start_dsh.bat` —— 启动 Web UI,自动打开浏览器 `http://127.0.0.1:3080`
 
 日常使用只需要第 3 步。
