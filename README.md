@@ -1,5 +1,7 @@
 # DeepSeek Harness 一键部署脚本(Windows)
 
+[English](README.en.md) | 简体中文
+
 仅需 2 个文件,即可在 Windows 上**零依赖**部署 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 。**不需要预装 Node.js / Git / pnpm,不污染系统,删除即卸载。**
 
 ## 快速开始
