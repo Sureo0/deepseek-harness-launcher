@@ -1,6 +1,6 @@
 # DeepSeek Harness One-Click Deployment Script (Windows)
 
-English | [简体中文](README.md)
+English | [简体中文](README.zh.md)
 
 Just 2 files to deploy [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) on Windows with **zero dependencies** — no pre-installed Node.js / Git / pnpm required. It never pollutes your system: delete the folder and it's fully uninstalled.
 
