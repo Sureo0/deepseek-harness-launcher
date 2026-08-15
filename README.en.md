@@ -6,7 +6,7 @@ Just 2 files to deploy [DeepSeek Harness](https://github.com/deepseek-ai/deepsee
 
 ## Quick Start
 
-1. Put the 2 files in the same folder (avoid overly deep paths, e.g. `D:\deepseek-harness-master\dsh`)
+1. Put the 2 files in the same folder (avoid overly deep paths, e.g. `D:\dsh`)
 2. Double-click `setup_dsh.bat` — it automatically: downloads portable Node.js → installs pnpm → fetches the dsh source → installs dependencies → performs a full build → guides you through API Key setup (first run takes about 10-30 minutes)
 
 3. Double-click `start_dsh.bat` — starts the Web UI and automatically opens your browser at `http://127.0.0.1:3080`

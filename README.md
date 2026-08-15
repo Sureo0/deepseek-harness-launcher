@@ -6,7 +6,7 @@
 
 ## 快速开始
 
-1. 把 2 个文件放入同一文件夹(路径别太深,例如 `D:\deepseek-harness-master\dsh`)
+1. 把 2 个文件放入同一文件夹(路径别太深,例如 `D:\dsh`)
 
 2. 双击 `setup_dsh.bat` —— 自动完成:下载便携 Node.js → 安装 pnpm → 获取 dsh 源码 → 安装依赖 → 全量构建 → 引导配置 API Key(首次约 10-30 分钟)
 
